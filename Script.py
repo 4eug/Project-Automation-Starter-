@@ -2,8 +2,8 @@ import os
 import sys
 from github import Github
 
-git_username = <UserName>
-git_password = <Password>
+git_username = <USERNAME>
+git_password = <PASSWORD>
 
 path = <Path>
 
